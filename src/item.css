@@ -1,0 +1,11 @@
+.item{
+    padding: 5%;
+    border:palevioletred solid ;
+}
+.buttonItem{
+    width:20%;
+    margin-left: 10%;
+    color: purple;
+    background-color:lightpink;
+    border:none;
+}
